@@ -54,6 +54,8 @@ Quick Start
 
 `Generate an API Key <https://www.binance.com/userCenter/createApi.html>`_ and assign relevant permissions.
 
+Before install pip, install <http://landinghub.visualstudio.com/visual-cpp-build-tools> Build Tools 2015
+
 .. code:: bash
 
     pip install python-binance
